@@ -1,5 +1,6 @@
 rootProject.name = "gradle"
 include ("hw01-gradle")
+include ("hw02-L04-generics")
 
 
 pluginManagement {
